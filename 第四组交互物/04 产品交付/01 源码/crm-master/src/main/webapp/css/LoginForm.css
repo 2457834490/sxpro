@@ -1,0 +1,17 @@
+.all{
+    width: 1600px;
+	height: 900px;
+	background-image:url(images/homebg.jpg);
+	background-color: aqua;
+	
+}
+.LoginForm{
+	width: 300px;
+	height: 300px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+}
